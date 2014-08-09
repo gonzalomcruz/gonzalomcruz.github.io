@@ -19,6 +19,15 @@ body, h1, h2, h3, h4, h5, h6 {
 	font-size: 15px;
 }
 
+.wello{
+	font-family: "Helvetica Neue";
+	font-weight: 400;
+	font-size: 15px;
+	text-align:justify;
+	width: 700px;
+	margin-left: 100px;
+}
+
 .all-well{
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -155,7 +164,7 @@ body, h1, h2, h3, h4, h5, h6 {
 	ul.banner-social-buttons {
 		float: left;
 		margin-top: 15px;
-	}	
+	}
 }
 
 @media (max-width: 767px) {
@@ -173,7 +182,7 @@ body, h1, h2, h3, h4, h5, h6 {
 
 	ul.banner-social-buttons > li:last-child {
 		margin-bottom: 0;
-	}	
+	}
 }
 
 footer {
